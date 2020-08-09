@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My libraries:
+### General usage
+- ID3 tags parser [dart-tags](https://github.com/NiKoTron/dart-tags)
+- GeoHex [geohex](https://github.com/NiKoTron/geohex)
+
+### R&D (POC)
+- 3D LUT transformation on dart language [dart-lut](https://github.com/NiKoTron/dart-lut)
