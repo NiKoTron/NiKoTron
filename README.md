@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a software developer and teamleader a bit ))
+I'm a software developer
 
-I'm using GitHub for my personal projects.
+I'm using GitHub for my personal projects. (not only)
 
 There are little statistic about languages that I'm using in my work:
 
