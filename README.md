@@ -6,7 +6,7 @@ I'm using GitHub for my personal projects. (not only)
 
 There are little statistic about languages that I'm using in my work:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiKoTron&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/top-langs/api?username=NiKoTron&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **NiKoTron/NiKoTron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
